@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpin Mandal</h1>
 <h3 align="center">Aspiring Java Full-Stack Developer | Exploring Open-Source</h3>
-<img align="right" alt="Coding" height="300" width="300" src="https://media.tenor.com/8tA6lM4NHdAAAAAM/john-wick.gif"/>
+<img align="right" alt="Coding" height="300" width="300" src="https://media.tenor.com/elljJSiSmPcAAAAM/john-wick-reload.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpin007&label=Profile%20views&color=0e75b6&style=flat" alt="arpin007" /> </p>
 
