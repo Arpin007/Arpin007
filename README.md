@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpin_mandal" target="blank"><img src="https://img.shields.io/twitter/follow/arpin_mandal?logo=twitter&style=for-the-badge" alt="arpin_mandal" /></a> </p>
 
-🔭 I’m currently working on advanced Java projects and enhancing my skills in React.<br><br>👯 I’m looking to collaborate on open-source projects or web development initiatives.<br><br>🌱 I’m learning Advanced Java and React.<br><br>💬 Ask me about Java, web development, or project collaboration opportunities.<br><br>⚡ Fun fact: I love experimenting with new technologies!<br>
+🔭 I’m currently working on Java projects and enhancing my skills in React.<br><br>👯 I’m looking to collaborate on open-source projects or web development initiatives.<br><br>🌱 Currently I’m learning Spring Boot and React.<br><br>💬 Ask me about Java, web development, or project collaboration opportunities.<br><br>⚡ Fun fact: I love experimenting with new technologies!<br>
 
 
 - 📫 Feel free to reach me at **arpinmandal143@gmail.com**
